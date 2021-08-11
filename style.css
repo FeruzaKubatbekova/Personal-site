@@ -1,0 +1,106 @@
+body {
+    display: block;
+    margin: 8px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 200%;
+}
+.top-container {
+    background-color: #E4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.element.style {
+}
+.middle-container {
+    margin: 100px 0;
+}
+.middle-container {
+    margin: 100px 0;
+}
+div {
+    display: block;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 2;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.programming-png {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+a {
+    color: 40514E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+.responsive-png {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.name {
+    font-family: Snell Roundhand, cursive;
+    color: #66bfbf;
+}
+.text {
+    color: #66bfbf;
+}
+.gmail{
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 10px;
+    border: solid #11CDD4 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+}
